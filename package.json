@@ -1,8 +1,8 @@
 {
-  "name": "indraChainSDK",
+  "name": "indrachainsdk",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An example SDK for building applications on top of Uniswap in indraChainSDK.",
+  "description": "🛠 An example SDK for building applications on top of Uniswap in indrachainsdk.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -11,7 +11,7 @@
   "keywords": [
     "uniswap",
     "ethereum",
-    "indraChainSDK"
+    "indrachainsdk"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
@@ -57,7 +57,7 @@
     "singleQuote": true
   },
   "publishConfig": {
-    "@<YOUR_ORGANIZATION>:registry": "https://gitlab.com/api/v4/projects/<your_project_id>/packages/npm/"
+    "@indrachainSDK": "https://github.com/abhaypratap2000/Indra_chain_SDK.git/packages/npm/"
   }
 
 }
